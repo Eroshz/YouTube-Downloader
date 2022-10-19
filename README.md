@@ -9,4 +9,4 @@ Yapmanız gereken tek şey yapmak istediğiniz işlemi seçip indirmek istediği
 
 ![resim](https://media.discordapp.net/attachments/966389043006955520/1032312434469371925/unknown.png?width=656&height=430)
 
-## [**İndirme Linki**]
+## [**Programı İndir**](https://github.com/Eroshz/YouTube-Downloader/archive/refs/heads/main.zip)
